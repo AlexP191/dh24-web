@@ -1,0 +1,54 @@
+.aueb-title {
+    font-family: "Calligraffitti";
+    font-size: 4rem;
+    font-weight: 800;
+    color:  rgb(189, 102, 102);
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+
+.aueb-text, .aueb-text2 {
+    background-color: rgb(157, 106, 106);
+}
+
+/*.aueb-text2 {
+    background-color: rgb(210, 187, 134);
+} */
+
+.courses > li {
+    color: rgb(104, 37, 37);
+    /*list-style: none;*/
+}
+
+
+.dh > span {
+    background-color: aquamarine;
+}
+
+input[type ="text"] {
+    background-color: blueviolet;
+}
+
+input[type ="button"] {
+    background-color: burlywood;
+}
+
+table {
+    border-collapse: collapse ;
+    width: 500px;
+}
+
+
+td {
+    text-align: center;
+}
+
+
+table, th, td {
+    width: 500px;
+    border: 1px solid black;
+}
